@@ -1,10 +1,10 @@
 # IMPORTANT !!! WEED SHOP 3 TOPEVERDAY MINIMAP MOD INSTALLATION
 Minimap mod for the game Weed Shop 3
-
-  - is to zoom out  
-  + is to zoom in  
-  m is to activate/disable the minimap  
-
+```
+- is to zoom out  
++ is to zoom in  
+m is to activate/disable the minimap  
+```
 
 1. Install Bepinex 5.x for your system https://docs.bepinex.dev/articles/user_guide/installation/index.html
 2. Bepinex folder goes into the game root of Weed Shop 3
